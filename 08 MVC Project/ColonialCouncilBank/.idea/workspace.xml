@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2538f4de-d13f-407e-b4f4-bcdefe8126f8" name="Default Changelist" comment="" />
+    <list default="true" id="ed2106b2-152e-4741-811e-db5b5f69980a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,14 +9,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ColonialCouncilBank" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1Q6FguFskbbG4vkHZiVUo4OeBG1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1Q6G0I7N2vncR2umZMBdk6GGIC2" />
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -30,17 +33,27 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="CcbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ccb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="app.ccb.CcbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2538f4de-d13f-407e-b4f4-bcdefe8126f8" name="Default Changelist" comment="" />
-      <created>1567083254983</created>
+      <changelist id="ed2106b2-152e-4741-811e-db5b5f69980a" name="Default Changelist" comment="" />
+      <created>1567083407404</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567083254983</updated>
-      <workItem from="1567083262621" duration="58000" />
+      <updated>1567083407404</updated>
+      <workItem from="1567083409064" duration="90000" />
+      <workItem from="1567083576198" duration="34000" />
     </task>
     <servers />
   </component>
@@ -52,7 +65,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
